@@ -14,9 +14,9 @@ This is the repository for exercise 4
 ## 2. Create GitHub account and one repository (3 points)
 
 * Create account on GitHub
-- Create one repository and where you added one of your exercises solved previousley
-- Add aREDME too where you describe your small project
-- Make sure that anyone with the link can access (in case of private repository).
+* Create one repository and where you added one of your exercises solved previousley
+* Add a README too where you describe your small project
+* Make sure that anyone with the link can access (in case of private repository).
 - Provide a screenshot ofthe used git commands forcloningyour repository.
 - Providethe link to your github repository
 
