@@ -4,10 +4,10 @@ This is the repository for exercise 4
 
 ## 1. Join Trello (2 points)
 
-- Create a team board (add all team members to your board)
-- Add Melinda Varo to your board
-- Set the board for the future project: Materials, To Do, Done lists and add a card in each
-- Return here link to your team's board and a print screen of the board too
+* ~~Create a team board (add all team members to your board)
+* ~~Add Melinda Varo to your board
+* ~~Set the board for the future project: Materials, To Do, Done lists and add a card in each
+- ~~Return here link to your team's board and a print screen of the board too
 
 
 
