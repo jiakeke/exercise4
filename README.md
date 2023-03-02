@@ -2,7 +2,7 @@
 This is the repository for exercise 4
 
 
-## 1. Join Trello (2 points)
+## 1. Join Trello (2 points) 清泉
 
 - ~~Create a team board (add all team members to your board)~~
 - ~~Add Melinda Varo to your board~~
